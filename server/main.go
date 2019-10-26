@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/svwielga4/grpc/echo"
+	"github.com/svwielga4/grpc/server/echo"
 	"google.golang.org/grpc"
 )
 
